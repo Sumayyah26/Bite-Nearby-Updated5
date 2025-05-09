@@ -1,0 +1,2 @@
+C:/Users/sumia/Downloads/Bite-Nearby-Updated4-main/Bite-Nearby-Updated4-main/bite_nearby/android/app/.cxx/Debug/413a4c1p/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/sumia/Downloads/Bite-Nearby-Updated4-main/Bite-Nearby-Updated4-main/bite_nearby/android/app/.cxx/Debug/413a4c1p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
